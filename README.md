@@ -2,6 +2,7 @@
 first commit 
 2thd
 
+theme: jekyll-theme-cayman
 Hello
 Chạy thử chương trình:
  
@@ -22,4 +23,5 @@ Sẽ có rất nhiều nghiệm. Chọn Name là ab và Pass là fg
 Kiểm tra
 ![image](https://user-images.githubusercontent.com/62017752/121050161-8bfbbf80-c7e2-11eb-99e5-7a90c72abc45.png)
 
+theme: jekyll-theme-cayman
  
